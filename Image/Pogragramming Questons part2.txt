@@ -1,0 +1,13 @@
+//WAJP to check if the number is strong number or not.
+//WAJP to print the product of all prime digits of a number.
+//WAJP to reverse the given number.
+//WAJP to check if the number is Palindrome or not
+//WAJP to print all the palindrome numbers from 1-1000
+//WAJP to display the count of perfect square and cube.
+//WAJP to check whether the number is happy number or not
+//WAJP to check Whether the number is special number or not.
+//WAJP to count total number of digits in a number.
+//WAJP to find the result of number raised to the power.
+//WAJP to check the number is Armstrong number or not.
+//WAJP to display the largest number in a number.
+//WAJP to print all the numbers in between 1-5;
